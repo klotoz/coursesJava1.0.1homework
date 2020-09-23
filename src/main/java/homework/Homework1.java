@@ -1,6 +1,6 @@
 package homework;
 
-public class homework1 {
+public class Homework1 {
     public static void main(String[] args) {
 
         // 2. Создание типов и инициализация их значений
