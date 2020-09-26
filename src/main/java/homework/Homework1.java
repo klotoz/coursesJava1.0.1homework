@@ -90,10 +90,4 @@ public class Homework1 {
             System.out.println(year + " Год високосный");
         }
     }
-=======
-
-    }
-
-
-
 }
