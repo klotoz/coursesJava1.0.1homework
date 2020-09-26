@@ -3,6 +3,7 @@ package homework;
 public class Homework1 {
     public static void main(String[] args) {
 
+
         // 2. Создание типов и инициализация их значений
         byte z = -13;
         short y = 32767;
@@ -89,5 +90,10 @@ public class Homework1 {
             System.out.println(year + " Год високосный");
         }
     }
+=======
+
+    }
+
+
 
 }
